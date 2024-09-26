@@ -1,25 +1,502 @@
-{
-    "title": "Easyfone T200 4G Téléphone Portable Senior Débloqué avec Grande Boutons, Bouton D'appel d'urgence SOS, Lampe de Poche et Station de Charge (Noir, 4G LTE)",
-    "price": "64,99",
-    "rating": "3,6"
-},
-{
-    "title": "Samsung Galaxy A14 4G 64GB Silver",
-    "price": "129",
-    "rating": "4,3"
-},
-{
-    "title": "SAMSUNG Galaxy A04S, Téléphone Mobile 4G 6,5\", 32GB, Carte SIM Non Incluse, Android, Version FR, Noir",
-    "price": "123.55",
-    "rating": "4,3"
-},
-{
-    "title": "QrZrQ i15Pro Téléphone Mobile, écran HD 6,1 Pouces, Android 10.0, 16GB (Extensible à 128GB), Quad Core, Dual SIM Dual Camera Cheap 3G Smartphone (i14Pro-Black)",
-    "price": "129,99",
-    "rating": "3,4"
-},
-{
-    "title": "OSCAL Telephone Portable, C30 Smartphone Pas Cher, 7GO RAM+256Go ROM Extensible, Téléphone Portable avec 6,5\" HD+ Écran, Caméras 12+5MP, Batterie 5080 mAh, Android 12,Face ID/OTG",
-    "price": "77,99",
-    "rating": "4,3"
-}
+[
+    {
+        "title": "Apple iPhone 16 (128 Go) - Outremer",
+        "price": 969.0,
+        "rating": 4.0
+    },
+    {
+        "title": "Apple iPhone 16 (128 Go) - Outremer",
+        "price": 969.0,
+        "rating": 4.0
+    },
+    {
+        "title": "Apple iPhone 15 (128 Go) - Noir",
+        "price": 809.0,
+        "rating": 4.6
+    },
+    {
+        "title": "Apple iPhone 15 Pro (128 Go) - Titane Bleu",
+        "price": 987.0,
+        "rating": 4.5
+    },
+    {
+        "title": "Apple iPhone 13 (128 Go) - Minuit",
+        "price": 606.0,
+        "rating": 4.6
+    },
+    {
+        "title": "Apple iPhone 15 (128 Go) - Noir (Reconditionné)",
+        "price": 699.0,
+        "rating": 4.2
+    },
+    {
+        "title": "Apple iPhone 11, 64Go, Noir - (Reconditionné)",
+        "price": 219.0,
+        "rating": 3.7
+    },
+    {
+        "title": "Apple iPhone SE 2ème Génération, 64Go, Noir (Reconditionné)",
+        "price": 129.0,
+        "rating": 4.0
+    },
+    {
+        "title": "Apple iPhone 11 128 Go - Noir (Reconditionné)",
+        "price": 259.0,
+        "rating": 3.7
+    },
+    {
+        "title": "Apple iPhone 12 mini, 64Go, Bleu - (Reconditionné)",
+        "price": 250.89,
+        "rating": 3.6
+    },
+    {
+        "title": "Apple iPhone 15 (128 Go) - Noir",
+        "price": 809.0,
+        "rating": 4.6
+    },
+    {
+        "title": "Apple iPhone 14 (128 Go) - Minuit",
+        "price": 717.0,
+        "rating": 4.6
+    },
+    {
+        "title": "Apple iPhone 11, 64Go, Blanc - (Reconditionné)",
+        "price": 219.0,
+        "rating": 3.6
+    },
+    {
+        "title": "Apple iPhone 12, 128Go, Bleu - (Reconditionné)",
+        "price": 319.0,
+        "rating": 3.6
+    },
+    {
+        "title": "Apple iPhone 11 Pro, 64Go, Gris Sidéral - (Reconditionné)",
+        "price": 269.0,
+        "rating": 4.3
+    },
+    {
+        "title": "Apple iPhone XR, 64Go, Noir (Reconditionné)",
+        "price": 169.0,
+        "rating": 3.9
+    },
+    {
+        "title": "Apple iPhone 16 (128 Go) - Outremer",
+        "price": 969.0,
+        "rating": 4.0
+    },
+    {
+        "title": "Apple iPhone 15 Pro (128 Go) - Titane Bleu",
+        "price": 987.0,
+        "rating": 4.5
+    },
+    {
+        "title": "Apple iPhone 12 Pro, 128 Go, Graphite (Reconditionné)",
+        "price": 419.0,
+        "rating": 3.7
+    },
+    {
+        "title": "Apple iPhone 13, 256Go, Vert - (Reconditionné)",
+        "price": 599.0,
+        "rating": 3.7
+    },
+    {
+        "title": "Apple Iphone Xr 64Go Blanc (Reconditionné)",
+        "price": 179.0,
+        "rating": 4.0
+    },
+    {
+        "title": "Apple iPhone 13 (256 Go) - lumière stellaire (Reconditionné)",
+        "price": 509.0,
+        "rating": 3.7
+    },
+    {
+        "title": "Apple iPhone 12, 64Go, Mauve - (Reconditionné)",
+        "price": 284.0,
+        "rating": 4.1
+    },
+    {
+        "title": "Apple iPhone SE 3e Gen, 64Go, Lumière stellaire - (Reconditionné)",
+        "price": 219.0,
+        "rating": 4.3
+    },
+    {
+        "title": "Apple iPhone 15 Pro Max (256 Go) - Titane Noir",
+        "price": 1299.0,
+        "rating": 4.6
+    },
+    {
+        "title": "Apple iPhone XS 64Go Gris Sidéral (Reconditionné)",
+        "price": 169.0,
+        "rating": 3.7
+    },
+    {
+        "title": "Apple 2022 iPhone SE (64 Go) - Minuit (3ᵉ génération)",
+        "price": 442.95,
+        "rating": 4.5
+    },
+    {
+        "title": "Apple iPhone 13 Pro, 128Go, Bleu Alpin - (Reconditionné)",
+        "price": 569.0,
+        "rating": 3.9
+    },
+    {
+        "title": "Apple iPhone 14 Plus (128 Go) - Mauve (Reconditionné)",
+        "price": 569.0,
+        "rating": 3.9
+    },
+    {
+        "title": "Apple iPhone 14 Pro, 128 Go, Espace Noir (Reconditionné)",
+        "price": 747.0,
+        "rating": 3.9
+    },
+    {
+        "title": "Apple iPhone 14, 128 Go, Minuit (Reconditionné)",
+        "price": 579.0,
+        "rating": 3.6
+    },
+    {
+        "title": "Apple iPhone 11 Pro 256Go Gris Sidéral (Reconditionné)",
+        "price": 328.0,
+        "rating": 3.7
+    },
+    {
+        "title": "Apple iPhone 12 Pro Max, 128 Go, Bleu Pacifique (Reconditionné)",
+        "price": 489.0,
+        "rating": 3.9
+    },
+    {
+        "title": "Apple iPhone 14 Pro Max, 128Go, Space Black - (Reconditionné)",
+        "price": 835.0,
+        "rating": 4.0
+    },
+    {
+        "title": "Apple iPhone 11 Pro 64Go Vert Nuit (Reconditionné)",
+        "price": 264.0,
+        "rating": 3.8
+    },
+    {
+        "title": "SAMSUNG Galaxy A15 4GB+128GB (Bleu Clair)",
+        "price": 167.75,
+        "rating": 4.4
+    },
+    {
+        "title": "Apple iPhone X, 64GB, Argent (Reconditionné)",
+        "price": 180.0,
+        "rating": 3.6
+    },
+    {
+        "title": "Apple iPhone 13, 128Go, Minuit (Reconditionné)",
+        "price": 419.0,
+        "rating": 3.8
+    },
+    {
+        "title": "Apple iPhone 11, 128 Go, Mauve (Reconditionné)",
+        "price": 303.0,
+        "rating": 3.7
+    },
+    {
+        "title": "Apple iPhone 11 128 Go - Vert (Reconditionné)",
+        "price": 308.0,
+        "rating": 3.4
+    },
+    {
+        "title": "Apple iPhone 13 Mini, 128Go, Bleu - (Reconditionné)",
+        "price": 399.99,
+        "rating": 3.5
+    },
+    {
+        "title": "Apple iPhone 13 Mini, 128Go, Vert - (Reconditionné)",
+        "price": 419.0,
+        "rating": 4.1
+    },
+    {
+        "title": "Apple iPhone 11 Pro 256Go Vert Nuit (Reconditionné)",
+        "price": 319.9,
+        "rating": 3.7
+    },
+    {
+        "title": "Apple iPhone 13 Mini, 128Go, Rose - (Reconditionné)",
+        "price": 392.0,
+        "rating": 3.8
+    },
+    {
+        "title": "Apple iPhone 13 Pro Max, 256Go, Argent - (Reconditionné)",
+        "price": 709.0,
+        "rating": 4.0
+    },
+    {
+        "title": "Apple iPhone Se 32GB NFC LTE Compact Gris Sidéral (Reconditionné)",
+        "price": 96.89,
+        "rating": 2.8
+    },
+    {
+        "title": "Apple iPhone 13 Pro, 128Go, Vert Alpin - (Reconditionné)",
+        "price": 569.0,
+        "rating": 3.9
+    },
+    {
+        "title": "Apple iPhone 13 Pro Max, 128Go, Vert Alpin - (Reconditionné)",
+        "price": 619.0,
+        "rating": 4.0
+    },
+    {
+        "title": "Apple iPhone 11 Pro 256Go Or (Reconditionné)",
+        "price": 319.0,
+        "rating": 4.0
+    },
+    {
+        "title": "Apple iPhone 14 Plus (128 Go) - Bleu",
+        "price": 769.0,
+        "rating": 4.6
+    },
+    {
+        "title": "Apple iPhone 15 Plus (128 Go) - Noir",
+        "price": 909.0,
+        "rating": 4.6
+    },
+    {
+        "title": "Apple iPhone SE (2nd Gen), 128Go, (PRODUCT)RED (Reconditionné)",
+        "price": 158.0,
+        "rating": 4.0
+    },
+    {
+        "title": "Movo iVlogger-PRO Kit de vlogging avec trépied complet pour iPhone/Android – Kit de démarrage YouTube pour créateurs de contenu – Accessoires : trépied de téléphone, support de téléphone, lumière RVB",
+        "price": 196.3,
+        "rating": 4.3
+    },
+    {
+        "title": "Movo iVlogger-PRO Kit de vlogging avec trépied complet pour iPhone/Android – Kit de démarrage YouTube pour créateurs de contenu – Accessoires : trépied de téléphone, support de téléphone, lumière RVB",
+        "price": 196.3,
+        "rating": 4.3
+    },
+    {
+        "title": "Movo X1-Mini microphone vidéo pour appareil photo – Microphone Supercardioïde 3,5 mm/USB-C Analogique/Numérique pour appareil photo reflex numérique, iPhone et smartphones Android, ordinateurs –",
+        "price": 83.28,
+        "rating": 4.8
+    },
+    {
+        "title": "Movo uVlogger Kit de Vlogging Compatible Android/USB-C/iPhone 15 avec Trépied Grand Format - Kit de Démarrage Youtube pour Créateurs de Contenu: Trépieds, Support Téléphone, Lumière, Micro Shotgun",
+        "price": 206.15,
+        "rating": 5.0
+    },
+    {
+        "title": "hohem iSteady M6 Stabilisateur Gimbal pour Smartphone, Stabil. vlogging, pour iPhone 15/14 Pro/Max/Android, intégré Charge utile de 400g, Ecran OLED intégré, 3 Axes Gimbal pour Youtube, TikTok",
+        "price": 179.0,
+        "rating": 4.4
+    },
+    {
+        "title": "Apple iPhone 12 mini, 128Go, Mauve - (Reconditionné)",
+        "price": 299.0,
+        "rating": 3.7
+    },
+    {
+        "title": "SAMSUNG GALAXY S24 Ultra, Smartphone Android 5G, 512 Go, Chargeur secteur rapide 25W inclus [Exclusivité Amazon], Smartphone déverrouillé, Gris, Version FR",
+        "price": 1439.0,
+        "rating": 4.0
+    },
+    {
+        "title": "Apple iPhone 11 128 Go - Jaune (Reconditionné)",
+        "price": 283.0,
+        "rating": 3.9
+    },
+    {
+        "title": "Xiaomi Redmi 12 Noir 4GO + 128GO [Version Globale]",
+        "price": 101.78,
+        "rating": 4.2
+    },
+    {
+        "title": "Apple iPhone 11 Pro 512Go Gris Sidéral (Reconditionné)",
+        "price": 369.0,
+        "rating": 4.0
+    },
+    {
+        "title": "Apple iPhone 11, 256 Go, Vert (Reconditionné)",
+        "price": 299.0,
+        "rating": 4.0
+    },
+    {
+        "title": "Nothing Phone (2) - 512 Go + 12 Go Ram, Glyph Interface, Nothing OS 2.0, Double caméra 50 MP, OIS, Ecran LTPO OLED 6,7\", IP54, Batterie 4700 mAh, Smartphone débloqué Android 5G, Blanc",
+        "price": 640.36,
+        "rating": 4.6
+    },
+    {
+        "title": "CROSSCALL Core-Z5 - Smartphone 5G Garanti 5 Ans - Aussi performant Que Durable, Noir",
+        "price": 678.98,
+        "rating": 3.8
+    },
+    {
+        "title": "Samsung Galaxy S20 Ultra - Smartphone Portable débloqué 5G (Ecran: 6,9 pouces - 128 Go - Double Nano-SIM - Android) - Noir",
+        "price": 489.0,
+        "rating": 3.7
+    },
+    {
+        "title": "Samsung Galaxy Z Flip3 5G 8GB 128GB Fantôme Noir",
+        "price": 518.99,
+        "rating": 3.9
+    },
+    {
+        "title": "Apple iPhone 13 Mini, 128Go, Minuit - (Reconditionné)",
+        "price": 379.0,
+        "rating": 3.7
+    },
+    {
+        "title": "DOOGEE V31GT Telephone Portable Incassable,5G Android 13 Smartphone Incassable 20GB+256GB,Imagerie Thermique,Triple Caméra 50MP Super Vue de Nuit,6.58'' FHD+,10800mAh IP68/NFC/GPS/OTG/WiFi 6 Noir",
+        "price": 569.99,
+        "rating": 4.2
+    },
+    {
+        "title": "Xiaomi POCO F3 - 5G 16,9 cm (6.67\") Double SIM MIUI 12 USB Type-C 6 Go 128 Go 4520 mAh Blanc",
+        "price": 411.25,
+        "rating": 4.4
+    },
+    {
+        "title": "POCO F6 Snapdragon® 8s Gen 3, écran Flow AMOLED 120Hz, Chargeur Turbo 90W, Double caméra 50MP avec OIS, 12GB+512GB, Doré (Version Française + 2 Ans de Garantie)",
+        "price": 448.97,
+        "rating": 4.4
+    },
+    {
+        "title": "Nothing Phone (2a) 8+128GB - Telephone portable avec Nothing OS 2.5 - Blanc Cassé",
+        "price": 342.2,
+        "rating": 4.5
+    },
+    {
+        "title": "Huawei Mate 20 Smartphone débloqué 4G (6,53 pouces - 128 Go/4 Go - Single SIM - Android) Noir [Version européenne]",
+        "price": 329.99,
+        "rating": 4.3
+    },
+    {
+        "title": "Xiaomi Redmi Note 13 Pro+ 5G Smartphone 12+512GB, 6.67 Super QPD, 120W HyperCharge, 2.8GHz, Black (EU Version)",
+        "price": 363.91,
+        "rating": 4.3
+    },
+    {
+        "title": "Apple iPhone 16 Pro (1 to) - Titane Sable",
+        "price": 1859.0,
+        "rating": 4.8
+    },
+    {
+        "title": "Samsung Smartphone Galaxy S10 (Hybrid SIM) 512GB - Noir (Reconditionné)",
+        "price": 434.0,
+        "rating": 5.0
+    },
+    {
+        "title": "CUBOT Kingkong X Smartphone 32Go(16+16) RAM+256Go ROM TF 1To Expand 6,58\" Écran Android 14 Robuste Téléphone Portable 100MP Caméra 10200mAh 5G Double SIM NFC Fingerprint Secondaire Écran",
+        "price": 299.99,
+        "rating": 4.4
+    },
+    {
+        "title": "Xiaomi Redmi Note 13 Pro+ 5G 256GB Midnight Black",
+        "price": 315.94,
+        "rating": 4.3
+    },
+    {
+        "title": "Xiaomi Poco X6 Pro 5G 512GB Black",
+        "price": 318.54,
+        "rating": 4.5
+    },
+    {
+        "title": "Apple iPhone 15 Pro (128 Go) - Titane Naturel (Reconditionné)",
+        "price": 870.0,
+        "rating": 3.9
+    },
+    {
+        "title": "Xiaomi Mi 10T Lite 5G - Smartphone 6+64GB, 6,67” FHD+ DotDisplay, Snapdragon 750G, 64MP AI Quad Camera, 4820mAh, Pearl Gray (European Version + 2 Years Warranty)",
+        "price": 289.9,
+        "rating": 4.4
+    },
+    {
+        "title": "Apple iPhone 6S 16 GB UK SIM-Free Smartphone - Rose (Renewed)",
+        "price": 163.89,
+        "rating": 4.1
+    },
+    {
+        "title": "Samsung SM-A556B, Galaxy A55 5G, Dual SIM, 8 Go 128 Go, Bleu Marine Fantastique, EU",
+        "price": 318.88,
+        "rating": 4.4
+    },
+    {
+        "title": "Ulefone Armor 22 (256Go) Smartphone Incassable Android 13,16Go+SD-512Go 6.58\" FHD+ 120Hz 64MP+64MP Nocturne Vision 6600mAh 33W 4G Dual SIM 5G WIFI/NFC/GPS/IP69K Téléphone Étanche(Vert)",
+        "price": 259.99,
+        "rating": 4.3
+    },
+    {
+        "title": "Apple iPhone 6S Plus 32 GB SIM-Free Smartphone - Silver (Renewed)",
+        "price": 125.0,
+        "rating": 3.5
+    },
+    {
+        "title": "Apple iPhone SE (2nd Gen), 128Go, Noir (Reconditionné)",
+        "price": 159.0,
+        "rating": 3.9
+    },
+    {
+        "title": "McMgc i15Pro Max Téléphone Portable Débloqué, 6,3 Pouces Waterdrop Android 9.0 Smartphone Pas Cher, 16Go ROM/128GB Extensible, Dual SIM, Face ID,3850mAh Batterie (i15Pro Max-Purple)",
+        "price": 69.99,
+        "rating": 3.0
+    },
+    {
+        "title": "Samsung Galaxy A14 4G 64GB Black",
+        "price": 125.14,
+        "rating": 4.3
+    },
+    {
+        "title": "DOOGEE S110 (2023), Helio G99 22GB + 256GB, Batteria 10800mAh / 66W, Rugged 4G Téléphones Portables Débloqués, 50MP (Infrarossi 24MP)+ 16MP + 32MP Smartphones, Android 13 6,58 pollici, NFC Noir",
+        "price": 249.99,
+        "rating": 3.9
+    },
+    {
+        "title": "Apple iPhone 11 Pro Max, 256Go, Vert Nuit - (Reconditionné)",
+        "price": 330.0,
+        "rating": 4.2
+    },
+    {
+        "title": "Apple iPhone 13 (256 Go) - Bleu",
+        "price": 729.0,
+        "rating": 4.6
+    },
+    {
+        "title": "Samsung Galaxy A33, Téléphone mobile 5G 128Go Noir, Carte SIM non incluse, smartphone Android, Version FR",
+        "price": 268.59,
+        "rating": 4.3
+    },
+    {
+        "title": "Apple iPhone 13 (256 Go) - Minuit",
+        "price": 769.0,
+        "rating": 4.6
+    },
+    {
+        "title": "Xiaomi Redmi Note 11 Pro+ 5G 8+256 Graphite Gray",
+        "price": 230.0,
+        "rating": 4.2
+    },
+    {
+        "title": "Apple iPhone 16 Plus (256 Go) - Cyan",
+        "price": 1249.0,
+        "rating": 3.3
+    },
+    {
+        "title": "Apple iPhone 6S 4.7-Inch 32 GB SIM-Free Smartphone - Space Grey (Renewed)",
+        "price": 120.0,
+        "rating": 3.4
+    },
+    {
+        "title": "Samsung A13 64 GB Black EU",
+        "price": 194.21,
+        "rating": 4.3
+    },
+    {
+        "title": "Apple iPhone 12, 128Go, Mauve - (Reconditionné)",
+        "price": 367.0,
+        "rating": 4.1
+    },
+    {
+        "title": "OPPO A54 - Smartphone 5G Débloqué - Téléphone Portable - 64 Go - Écran Ultra Fluide - Quadruple Capteur Photo 48 MP - Processeur Qualcomm Octa-Core - Ultra Grand Angle 8 MP - Autonomie 2 Jours - Noir",
+        "price": 199.99,
+        "rating": 4.2
+    },
+    {
+        "title": "Huawei P20 Pro Smartphone Débloqué 4G (6,1 Pouces 128 Go/6 Go Single SIM Android) Bleu [Version Européenne]",
+        "price": 239.99,
+        "rating": 4.4
+    }
+]
