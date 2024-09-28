@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Visualisation des Données de Produits</title>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script type="text/javascript">
+        google.charts.load('current', {packages: ['corechart']});
+        google.charts.setOnLoadCallback(loadData);
+
+        function loadData() {
+            $.getJSON("output.json", function(jsonData) {
+                drawBarChart(jsonData);
+                drawStackedBarChart(jsonData);
+                drawHistogram(jsonData);
+                drawPieChart(jsonData);
+            });
+        }
+
+        function drawBarChart(jsonData) {
+            var data = new google.visualization.DataTable();
+            data.addColumn('string', 'Product');
+            data.addColumn('number', 'Price');
+
+            jsonData.forEach(function(row) {
+                data.addRow([row.title, row.price]);
+            });
+
+            var options = {
+                title: 'Prix des Produits',
+                chartArea: {width: '50%'},
+                hAxis: { title: 'Prix en EUR', minValue: 0 },
+                vAxis: { title: 'Modèle' },
+                legend: 'none'
+            };
+
+            var chart = new google.visualization.BarChart(document.getElementById('bar_chart_div'));
+            chart.draw(data, options);
+        }
+
+        function drawStackedBarChart(jsonData) {
+            var data = new google.visualization.DataTable();
+            data.addColumn('string', 'Product');
+            data.addColumn('number', 'Price');
+            data.addColumn('number', 'Rating');
+
+            jsonData.forEach(function(row) {
+                data.addRow([row.title, row.price, row.rating]);
+            });
+
+            var options = {
+                title: 'Prix et Évaluations des Produits',
+                isStacked: true,
+                chartArea: {width: '50%'},
+                hAxis: { title: 'Valeur totale' },
+                vAxis: { title: 'Produits' },
+                legend: { position: 'top', maxLines: 3 }
+            };
+
+            var chart = new google.visualization.BarChart(document.getElementById('stacked_bar_chart_div'));
+            chart.draw(data, options);
+        }
+
+        function drawHistogram(jsonData) {
+            var data = new google.visualization.DataTable();
+            data.addColumn('number', 'Price');
+
+            jsonData.forEach(function(row) {
+                data.addRow([row.price]);
+            });
+
+            var options = {
+                title: 'Distribution des prix',
+                legend: { position: 'none' }
+            };
+
+            var chart = new google.visualization.Histogram(document.getElementById('histogram_div'));
+            chart.draw(data, options);
+        }
+
+        function drawPieChart(jsonData) {
+            var data = new google.visualization.DataTable();
+            data.addColumn('string', 'Rating');
+            data.addColumn('number', 'Count');
+
+            var ratingCounts = {};
+            jsonData.forEach(function(row) {
+                var rating = Math.round(row.rating); // Round to nearest whole number for grouping
+                ratingCounts[rating] = (ratingCounts[rating] || 0) + 1;
+            });
+
+            for (var rating in ratingCounts) {
+                data.addRow([rating.toString(), ratingCounts[rating]]);
+            }
+
+            var options = {
+                title: 'Répartition des évaluations',
+                is3D: true
+            };
+
+            var chart = new google.visualization.PieChart(document.getElementById('pie_chart_div'));
+            chart.draw(data, options);
+        }
+    </script>
+</head>
+<body>
+    <h1>Visualisation des Données des Produits</h1>
+    <div id="bar_chart_div" style="width: 900px; height: 500px;"></div>
+    <div id="stacked_bar_chart_div" style="width: 900px; height: 500px;"></div>
+    <div id="histogram_div" style="width: 900px; height: 500px;"></div>
+    <div id="pie_chart_div" style="width: 900px; height: 500px;"></div>
+</body>
+</html>
